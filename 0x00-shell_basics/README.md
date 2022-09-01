@@ -1,2 +1,2 @@
 #!/bin/bash
-Display current directory contents, including hidden files (starting with .)
+Move the file betty from /tmp/ to /tmp/my_first_directory
