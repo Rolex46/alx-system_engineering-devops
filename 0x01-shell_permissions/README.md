@@ -1,1 +1,2 @@
-Task 10. Look in the mirror
+#!/bin/bash
+Task 11. Directories
