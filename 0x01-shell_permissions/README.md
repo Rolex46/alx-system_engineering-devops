@@ -1,2 +1,1 @@
-#!/bin/bash
-Task 9. John Doe
+Task 10. Look in the mirror
