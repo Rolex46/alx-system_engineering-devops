@@ -1,2 +1,2 @@
 #!/bin/bash
-Task 8. Save current state of directory
+Task  a script that duplicates the last line of the file iacta
