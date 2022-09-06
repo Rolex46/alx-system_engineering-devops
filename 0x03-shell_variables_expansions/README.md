@@ -1,2 +1,2 @@
 #!/bin/bash
-2-patth
+a script that counts the number of directories in the PATH
