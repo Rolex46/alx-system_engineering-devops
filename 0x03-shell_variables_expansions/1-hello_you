@@ -1,2 +1,6 @@
 #!/bin/bash
 echo "hello $USER"
+[master 031dccf] 1-hello_you
+ 2 files changed, 4 insertions(+)
+ create mode 100755 0x03-shell_variables_expansions/1-hello_you
+ create mode 100644 0x03-shell_variables_expansions/README.md

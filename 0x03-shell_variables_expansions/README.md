@@ -1,2 +1,2 @@
 #!/bin/bash
-1. Hello you
+0-alias
