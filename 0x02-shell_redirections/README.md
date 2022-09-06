@@ -1,2 +1,2 @@
 #!/bin/bash
-Task 13 unique
+Display lines containing the pattern “root” from the file /etc/passwd
