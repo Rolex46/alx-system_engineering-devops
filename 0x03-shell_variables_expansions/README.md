@@ -1,2 +1,2 @@
 #!/bin/bash
-create_local_variable
+create_global_variable
